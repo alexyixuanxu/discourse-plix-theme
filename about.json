@@ -1,0 +1,27 @@
+{
+  "name": "PLIX",
+  "component": false,
+  "license_url": null,
+  "about_url": null,
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+  },
+  "color_schemes": {
+    "PLIX": {
+      "primary": "222222",
+      "secondary": "ffffff",
+      "tertiary": "e62565",
+      "quaternary": "e62565",
+      "header_background": "ffffff",
+      "header_primary": "333333",
+      "highlight": "fce5ed",
+      "danger": "990C3B",
+      "success": "00990E",
+      "love": "e62565"
+    }
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
